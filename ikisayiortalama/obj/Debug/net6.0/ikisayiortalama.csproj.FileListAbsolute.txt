@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\bin\Debug\net6.0\ikisayiortalama.exe
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\bin\Debug\net6.0\ikisayiortalama.deps.json
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\bin\Debug\net6.0\ikisayiortalama.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\bin\Debug\net6.0\ikisayiortalama.dll
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\bin\Debug\net6.0\ikisayiortalama.pdb
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.dll
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\refint\ikisayiortalama.dll
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.pdb
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ikisayiortalama.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ikisayiortalama\ikisayiortalama\obj\Debug\net6.0\ref\ikisayiortalama.dll
